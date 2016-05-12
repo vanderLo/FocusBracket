@@ -12,4 +12,6 @@ Use [Sony-PMCA-RE](https://github.com/ma1co/Sony-PMCA-RE).
 * Start the app and follow the on-screen instructions.
 * Help/Trash or menu button exits the app.
 
-Only tested on the A5100 w/ kit lens.
+Tested on:
+-A5100 w/ Kit lens
+-A6000 w/ Zeiss Touit lens
